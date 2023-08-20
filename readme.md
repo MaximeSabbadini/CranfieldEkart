@@ -1,5 +1,5 @@
-###### Code and Simulink Model for the Cranfield e-Kart ######
-## Code written by Maxime Sabbadini, Automotive Mechatronics MSc ##
+## Code and Simulink Model for the Cranfield e-Kart ##
+##### Code written by Maxime Sabbadini, Automotive Mechatronics MSc #####
 
 To execute the simulink model, run before the "CreateAllControllers.m" script.
 Then, the Simulink Model is ready to be uploaded on the e-kart. 
@@ -9,4 +9,4 @@ Attention : It might happen that sometime the Raspberry Pi does not pick up the 
 Enjoy !
 
 
-Maxime Sabbadini, maxime.sabbadini7@gmail.com 
+#### Maxime Sabbadini, maxime.sabbadini7@gmail.com 
